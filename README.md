@@ -61,7 +61,7 @@ Cipher_Note/
 
 ## Usage/Examples
 
-```python
+```bash
 cd Ciphernote-CLI/
 
 python ciphernote-CLI.py
@@ -78,7 +78,7 @@ python ciphernote-CLI.py
 
 
 ## 🚀 About Me
-**Ciphernote CLI** This project was developed by a young programmer driven by curiosity and a persistence.
+This project was developed by a young programmer driven by curiosity and a persistence.
 My dedication to coding and passion for development led to the creation of this project.
 ---
 
