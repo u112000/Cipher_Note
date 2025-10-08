@@ -1,0 +1,6 @@
+secrets
+sqlite3
+fortune
+rich
+matplotlib
+cryptography
