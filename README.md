@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Refactor%20In%20Progress-orange.svg)
-![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20Android%20(Pydroid)-grey.svg)
+![Platform](https://img.shields.io/static/v1?label=Platform&message=Linux&color=blue)
 
 ---
 
