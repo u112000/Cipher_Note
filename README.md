@@ -84,4 +84,4 @@ My dedication to coding and passion for development led to the creation of this 
 
 ## Authors
 
-- [@https://github.com/u112000]
+- u112000
