@@ -78,7 +78,7 @@ python ciphernote-CLI.py
 
 
 ## 🚀 About Me
-This project was developed by a young programmer driven by curiosity and a persistence.
+This project was developed by a young programmer driven by curiosity and persistence.
 My dedication to coding and passion for development led to the creation of this project.
 ---
 
